@@ -1,4 +1,4 @@
-import earth from "../../assets/images/earth.png";
+import earth from "../assets/images/earth.png";
 
 function Home() {
 
